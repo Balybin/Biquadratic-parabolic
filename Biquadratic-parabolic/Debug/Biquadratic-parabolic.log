@@ -1,0 +1,22 @@
+﻿  Slau.cpp
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(26): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(31): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\slau.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\slau.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\slau.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\slau.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\slau.cpp(163): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Компиляция...
+  main.cpp
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(26): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(31): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\matrix.h(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\main.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\царь\documents\github\biquadratic-parabolic\biquadratic-parabolic\main.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+Slau.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl F(double,double)" (?F@@YANNN@Z) в функции "public: void __thiscall Slau::matrixFilling(void)" (?matrixFilling@Slau@@QAEXXZ)
+C:\Users\Царь\Documents\GitHub\Biquadratic-parabolic\Debug\Biquadratic-parabolic.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
